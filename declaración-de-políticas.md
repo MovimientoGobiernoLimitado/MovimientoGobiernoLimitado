@@ -3,7 +3,7 @@
 
 *Ultima modificación Diciembre 31, 2018 - Bucaramanga, Colombia.*
 
-##1. DECLARACIÓN DE PRINCIPIOS.
+## 1. DECLARACIÓN DE PRINCIPIOS.
 
 Nosotros, los miembros del Movimiento Gobierno Limitado, apoyamos los siguientes principios:
 

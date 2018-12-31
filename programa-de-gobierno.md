@@ -1,8 +1,8 @@
-#Programa de Gobierno del Movimiento Gobierno Limitado
+# Programa de Gobierno del Movimiento Gobierno Limitado
 
 *Ultima modificación Diciembre 31, 2018 - Bucaramanga, Colombia.*
 
-##Agradecimiento y reconocimiento
+## Agradecimiento y reconocimiento
 
 Agradecemos y reconocemos el apoyo intelectual e ideológico del profesor Alberto Mansueti en sus trabajos para el Centro de Liberalismo Clásico, especialmente su trabajo en la organización de una estrategia de corto y mediano plazo como propuesta política consignada en el programa de la Derogación de Leyes Malas y Las Cinco Reformas para el movimiento Perú Nuevo, del cual se inspira este trabajo.
 
@@ -16,8 +16,8 @@ sistemática.
 
 Con la realización de estas actividades y siguiendo el principio de causalidad vamos a lograr que nuestro país sea próspero y tranquilo.
 
-Daniel Cordero, Líder Encargado.
-2 de Febrero de 2017
+Daniel F. Cordero B.
+Diciembre 31 de 2018
 
 
 ## Reflexión
@@ -97,17 +97,17 @@ Mientras tanto los pobres salen de la pobreza, con las tres “reformas sociales
 
 Mientras tanto los pobres salen de la pobreza con sus bonos de las tres series, ¿traficarán con sus votos los politiqueros demagogos y los agitadores rojos, como hacen ahora, cambiando los votos de los pobres por “Planes Sociales”? De ninguna manera: eso lo hacen porque las “ayudas sociales” no son para ayudar a salir de la pobreza, sino para permanecer pobres para siempre, votando siempre por los señores feudales políticos que te mantienen en servidumbre. En cambio los bonos de las tres series que proponemos no son electoreros, no son para siempre: son para salir de la pobreza.
 
-###No más tráfico de votos
+### No más tráfico de votos
 
 ¿Y cómo se concreta y materializa esta diferencia? Fácil: para impedir el tráfico político, en la Reforma No. 1, los derechos al sufragio quedan suspendidos a los beneficiarios de los bonos, tanto el sufragio activo, o sea el derecho a votar, como el sufragio pasivo, o sea el derecho a postular a cargos públicos electivos. Y por supuesto también el derecho a participar en licitaciones y contrataciones con el Estado.
 
 De pasada, apuntemos que esta suspensión temporal va a ser un incentivo poderoso para salir cuanto antes del sistema de bonos en las nóminas del Ministerio Bienestar Social.
 
-###Esto es una democracia honesta
+### Esto es una democracia honesta
 
 ¿Ves? Sin tráfico de votos ni negociados turbios. Sin corrupción en este asunto. Así que ya sabes cuál será una de las más fuertes razones que los politiqueros y traficantes de votos tendrán para estar fuertemente contra “Colombia Nueva”, a favor de las leyes malas y contra las Cinco Reformas. Ya lo sabemos. ¡No contamos con ellos! Colombia cuenta contigo.
 
-###Bienvenidos especialmente los visitadores y trabajadores sociales
+### Bienvenidos especialmente los visitadores y trabajadores sociales
 
 Y todos los que se preocupan por el bienestar de los más pobres. Con las tres “reformas sociales” y las tres series de cupones, ya Uds. no serán víctimas e instrumentos “útiles” en manos de los agitadores y
 los politiqueros demagogos: Uds. van a ser agentes de cambio de verdad, y van a ayudar mucho y realmente al prójimo.
